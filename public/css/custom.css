@@ -1,7 +1,8 @@
-body {
+/*
+  body {
     padding-top: 20px;
     padding-bottom: 60px;
-  }
+  }*/
 
   /* Custom container */
   .container {
@@ -67,3 +68,4 @@ body {
     border-right: 0;
     border-radius: 0 3px 3px 0;
   }
+
